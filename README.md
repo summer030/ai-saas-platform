@@ -1,4 +1,4 @@
-This is a repository for Build a SaaS AI Platform with [Next.js](https://nextjs.org/), [TailwindCSS](https://tailwindcss.com/), [Prisma](https://www.prisma.io/), [Stripe](https://stripe.com/).
+This is a repository for Building a SaaS AI Platform with [Next.js](https://nextjs.org/), [TailwindCSS](https://tailwindcss.com/), [Prisma](https://www.prisma.io/), [Stripe](https://stripe.com/).
 
 - Learn from: [next13-ai-saas](https://github.com/AntonioErdeljac/next13-ai-saas/tree/master)
 - [Vercel](https://vercel.com/) deploy demo: [ai-saas-platform](ai-saas-platform-wine.vercel.app)
